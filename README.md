@@ -1,3 +1,16 @@
+# Todo List App
+
+A simple and intuitive Todo List app built with React, allowing users to create, complete, search, and delete tasks effortlessly.
+
+## Features
+
+- **Create Task:** Easily add new tasks to your todo list.
+- **Mark as Complete:** Mark tasks as complete to keep track of your progress.
+- **Search Tasks:** Quickly find specific tasks using the search functionality.
+- **Delete Tasks:** Remove tasks that are no longer needed.
+- **Responsive Design:** The app is designed to work seamlessly on various screen sizes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
